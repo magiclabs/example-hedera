@@ -11,8 +11,7 @@ import { HederaExtension } from '@magic-ext/hedera'
 import { Magic } from "magic-sdk";
 
 
-const magic = new Magic("pk_live_06D5F65BB9CDD2F0", {
-    endpoint: 'http://localhost:3014',
+const magic = new Magic("pk_live_C8037E2E6520BBDF", {
     extensions: [new HederaExtension({
         network: 'testnet'
     })]
