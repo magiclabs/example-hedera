@@ -2,7 +2,7 @@
 
 this is a demo for hedera support in Magic.
 
-To run this demo, please clone this repo and run follow command to test
+To run this demo, please clone this repo and run following commands to test
 
 ```shell
 $ yarn install
