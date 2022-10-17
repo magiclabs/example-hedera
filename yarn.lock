@@ -1762,7 +1762,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@magic-ext/hedera@0.1.0":
+"@magic-ext/hedera@0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@magic-ext/hedera/-/hedera-0.2.0.tgz#440f0b395428e954531ecefe401e267097744f21"
   integrity sha512-xFpC+jBfxHkb8SEWbq4QJn690OT0E+0j/+Mq3FNZnNiWffm7SEwpsS/flEv5YfxYAxYUnw89Yh7OkFd2N9k7MQ==
