@@ -35,7 +35,7 @@ export default function App() {
   }, [isLoggedIn]);
 
   const login = async () => {
-    await magic.auth.loginWithMagicLink({ email });
+    await magic.auth.loginWithEmailOTP({ email });
     setIsLoggedIn(true);
   };
 
