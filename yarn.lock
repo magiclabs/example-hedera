@@ -1842,10 +1842,10 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@magic-ext/hedera@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@magic-ext/hedera/-/hedera-1.0.0.tgz#dcee59ccbb159f2be850e46b26b849204c051ffd"
-  integrity sha512-Ut/D0JkXWEM05FaotpdDEOJIX1E2R77suwznlBk6cT5h+Puj1QG+r7Ye2YuAgoVKUMsfrFQu9L1SrS8gsBykYw==
+"@magic-ext/hedera@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@magic-ext/hedera/-/hedera-1.0.1.tgz#6f107d33d2295dfc675bc1d40e81c26565b121d2"
+  integrity sha512-wu+eywjXrbjGMLlbxpvec8xEYhAtFBu8H1WslPDDAmJFISiql1ChdFnaZOsOxtYZG7pFCyXLrw4TXZGZiuZfog==
 
 "@magic-sdk/commons@^15.1.0":
   version "15.1.0"
